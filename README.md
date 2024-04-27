@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![GitHub License](https://img.shields.io/github/license/tiny-sky/LockTest?style=flat&logo=linux&color=fedcba&link=https%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F4.0%2F)
 
 
@@ -109,3 +110,6 @@ valgrind --tool=helgrind ./test/lock_test
 - 你可以和其他人讨论这项任务的细节
 - 禁止复制抄袭他人代码，或让 ChatGPT 生成代码。
 - 在这项任务中，你可以在 Google 上搜索，或者询问 ChatGPT 还未掌握的知识。
+=======
+# LockTest
+>>>>>>> 097a0e10317c04a6cdb02be6b73a06dfe33a7c4c
